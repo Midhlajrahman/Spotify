@@ -1,1 +1,1 @@
-<a href="https://midhlajrahman.github.io/Spotify/">Spotifyy</a>
+<a href="https://midhlajrahman.github.io/Spotify/">Spotify</a>
